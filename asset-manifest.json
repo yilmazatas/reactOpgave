@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactOpgave/static/css/main.073c9b0a.css",
+    "main.js": "/reactOpgave/static/js/main.a8afd414.js",
+    "static/js/787.d9f1feb3.chunk.js": "/reactOpgave/static/js/787.d9f1feb3.chunk.js",
+    "service-worker.js": "/reactOpgave/service-worker.js",
+    "static/media/logo.svg": "/reactOpgave/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/reactOpgave/index.html",
+    "main.073c9b0a.css.map": "/reactOpgave/static/css/main.073c9b0a.css.map",
+    "main.a8afd414.js.map": "/reactOpgave/static/js/main.a8afd414.js.map",
+    "787.d9f1feb3.chunk.js.map": "/reactOpgave/static/js/787.d9f1feb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a8afd414.js"
+  ]
+}
